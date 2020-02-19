@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Web Event Horizon`,
-    description: `WebEventHorizon is an opinionated curation of Web Development news`,
+    description: `Web Event Horizon is an opinionated curation of web development news`,
     author: `laquereric@gmail.com`,
   },
   plugins: [
